@@ -1,0 +1,22 @@
+- TinyVLA
+	- https://github.com/liyaxuanliyaxuan/TinyVLA
+	- https://huggingface.co/hz1919810/TinyVLA-droid_diffusion_metaworld
+	- [TinyVLA：面向机器人操控的快速、数据高效、视觉-语言-动作模型 - 知乎](https://zhuanlan.zhihu.com/p/833511695)
+	- [从TinyVLA到SmolVLA——又快又省的Vision-Language-Action模型 - 知乎](https://zhuanlan.zhihu.com/p/1915072936903156771)
+	- [端到端-tinyvla本地部署 - 知乎](https://zhuanlan.zhihu.com/p/28397268638)
+	- https://huggingface.co/lesjie/Llava-Pythia-400M/tree/main
+- 仿真
+- maniskill
+	- https://colab.research.google.com/github/haosulab/ManiSkill/blob/main/examples/tutorials/1_quickstart.ipynb
+	- https://www.maniskill.ai/
+	- https://github.com/haosulab/ManiSkill
+	- https://maniskill.readthedocs.io/en/latest/user_guide/getting_started/quickstart.html
+- metaworld
+	- https://github.com/Farama-Foundation/Metaworld
+	- https://metaworld.farama.org/
+- **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)**
+	- https://github.com/Farama-Foundation/Gymnasium
+算法库
+- https://github.com/MarkFzp/act-plus-plus
+数据集
+- https://zhuanlan.zhihu.com/p/16477744603

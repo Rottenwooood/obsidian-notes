@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "68d5cce88844fd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d4bae1b2e21889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd0f6993f077c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📅日记/2025-08-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-09"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9555177e3dd634ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e7177be5faa4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8239f144e65a0f2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "80b5c9a596ed224c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "da81dee1fcc986d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "65ddbc8b59522c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b99899bc0ff7de",
+        "type": "tabs",
+        "dimension": 66.74757281553399,
+        "children": [
+          {
+            "id": "6929638649b8e646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e0cea4550441f33",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c8af47e704dc94aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/obsidian基本使用方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "obsidian基本使用方法 的反向链接列表"
+            }
+          },
+          {
+            "id": "55d99d7f88577254",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📅日记/2025-07-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-07-27 的出链列表"
+            }
+          },
+          {
+            "id": "27b2928bbd864f9b",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "c7db8b04a3f01775",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "5099c3fbce1eba82",
+        "type": "tabs",
+        "dimension": 33.25242718446602,
+        "children": [
+          {
+            "id": "a808a16435ec9085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📅日记/2025-08-09.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-08-09 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "80b5c9a596ed224c",
+  "lastOpenFiles": [
+    "linux/pip.md",
+    "📅日记/2025-08-09.md",
+    "科研/LeRobot.md",
+    "📅日记/2025-08-07.md",
+    "科研/conda.md",
+    "南大PA/笔记.md",
+    "📅日记/2025-08-06.md",
+    "科研/VLA/VLA.md",
+    "科研/VLA/Tinyvla.md",
+    "📅日记/2025-07-31.md",
+    "📅日记/2025-07-16.md",
+    "📅日记/2025-07-30.md",
+    "📅日记/2025-07-29.md",
+    "📅日记/2025-07-28.md",
+    "📅日记/2025-07-27.md",
+    "📅日记/2025-07-26.md",
+    "📅日记/2025-07-25.md",
+    "📅日记/2025-07-24.md",
+    "📅日记/2025-07-23.md",
+    "📅日记/2025-07-22.md",
+    "📅日记/2025-07-21.md",
+    "📅日记/2025-07-20.md",
+    "📅日记/2025-07-19.md",
+    "📅日记/2025-07-18.md",
+    "📅日记/2025-07-17.md",
+    "📅日记/2025-08-05.md",
+    "合成数据/wechat.txt",
+    "合成数据/QWEN.txt",
+    "合成数据",
+    "图片/Pasted image 20250725172629.png",
+    "Clippings",
+    "图片/Pasted image 20250724151734.png",
+    "任务存储",
+    "图片/Pasted image 20250723162927.png",
+    "南大PA",
+    "科研/多模态",
+    "科研/VLA",
+    "图片/Pasted image 20250722222019.png",
+    "图片/Pasted image 20250723142931.png",
+    "图片/Pasted image 20250722223105.png",
+    "图片/Pasted image 20250722222528.png",
+    "图片/Pasted image 20250722222504.png",
+    "图片/Pasted image 20250722222134.png",
+    "图片/Pasted image 20250720174319.png",
+    "Lhub",
+    "linux",
+    "未命名.canvas"
+  ]
+}
