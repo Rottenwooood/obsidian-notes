@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80b5c9a596ed224c",
+  "active": "c7db8b04a3f01775",
   "lastOpenFiles": [
     "linux/pip.md",
     "📅日记/2025-08-09.md",
