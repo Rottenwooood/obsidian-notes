@@ -48,7 +48,7 @@ env_config_gym_hil_il.json
     },
     "name": "franka_sim",
     "mode": "record",
-    "repo_id": "lxc_test_sim", //仓库名称
+    "repo_id": "huggingface的用户名/lxc_test_sim", //仓库名称
     "dataset_root": null,
     "task": "PandaPickCubeKeyboard-v0", //键盘或手柄
     "num_episodes": 30, //数量
